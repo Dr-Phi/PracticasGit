@@ -2,4 +2,6 @@
 /* CSS Document */
 body{
     background-color:rgb(95, 180, 193);
+    font-weight: bold;
+    color: #F00;
 }
